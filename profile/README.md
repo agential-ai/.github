@@ -7,5 +7,6 @@
   />
 </h3>
 
-
-Some text here.
+<h3 align="center">
+  <p>The encyclopedia of popular LLM-based agents prompting and fine-tuning methods.</p>
+</h3>

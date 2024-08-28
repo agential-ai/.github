@@ -8,5 +8,5 @@
 </h3>
 
 <h3 align="center">
-  <p>The encyclopedia of popular LLM-based agents prompting and fine-tuning methods.</p>
+  <p>An encyclopedia of popular LLM-based agent methods for easy experimentation across diverse reasoning/decision-making benchmarks.</p>
 </h3>

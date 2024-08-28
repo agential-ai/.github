@@ -8,5 +8,5 @@
 </h3>
 
 <h3 align="center">
-  <p>An encyclopedia of popular LLM-based agent methods for easy experimentation across diverse reasoning/decision-making benchmarks.</p>
+  <p>Easily experiment with popular language agents across diverse reasoning/decision-making benchmarks!</p>
 </h3>
